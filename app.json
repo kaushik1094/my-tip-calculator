@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-tip-calculator",
-    "slug": "my-tip-calculator",
+    "name": "tip-calculator",
+    "slug": "tip-calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
